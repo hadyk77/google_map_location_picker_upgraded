@@ -14,7 +14,7 @@ dependencies:
   flutter_localizations:
     sdk: flutter
   geolocator: ^10.0.0
-  google_maps_flutter: ^2.6.0
+  google_maps_flutter: ^2.5.0
   intl: ^0.18.1
   package_info_plus:
   provider: ^6.0.2
@@ -23,8 +23,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-dependency_overrides:
-  web: 0.5.0   
+
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
